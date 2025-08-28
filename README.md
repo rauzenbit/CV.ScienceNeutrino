@@ -1,4 +1,4 @@
-#Searching for correlations between neutrino events and gravitational transients
+# Searching for correlations between neutrino events and gravitational transients
 
 In this work, the following was done:
 1. Images of neutrino events from 2011–2018 were obtained. As examples, 2011, 2015, and 2017 are shown. The red dot marks the Galactic Center.
